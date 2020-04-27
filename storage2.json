@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "id": "3SWjVLQhO",
+      "title": "train SQL",
+      "body": "in codewars level up to 5kyu",
+      "done": false,
+      "status": "pending"
+    },
+    {
+      "id": "GtuUPWPo4",
+      "title": "React-Hooks",
+      "body": "learn react hooks\nand do hands-on",
+      "done": false,
+      "status": "pending"
+    },
+    {
+      "id": "Nm7HHSnW3",
+      "title": "Chai.JS",
+      "body": "Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.",
+      "done": false,
+      "status": "pending"
+    }
+  ]
+}
