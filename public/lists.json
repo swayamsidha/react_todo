@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "first task",
+        "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "done":false,
+        "status": "pending"
+    },
+    {
+        "id": 2,
+        "title": "second task",
+        "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "done": true,
+        "status": "complete"
+    }
+]
