@@ -26,7 +26,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server": "node /Users/swayamsidha.subudhi/Desktop/pocs/todo_app/server/server.js"
+    "server": "node server/server.js"
   },
   "eslintConfig": {
     "extends": "react-app"
